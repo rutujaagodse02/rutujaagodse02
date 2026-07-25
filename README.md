@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-url.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-visit-5fd4c4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfoliooo-eight-alpha.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-visit-5fd4c4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/rutuja-godse-42914828b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/rutuja_godse" target="_blank"><img src="https://img.shields.io/badge/LeetCode-800%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:rutujagodse70@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -110,7 +110,7 @@ ML-based disease prediction with 85%+ accuracy and interactive medical analytics
 </td>
 <td width="50%" valign="top">
 
-**📁 More on my [portfolio site →](https://your-portfolio-url.vercel.app)**
+**📁 More on my [portfolio site →](https://portfoliooo-eight-alpha.vercel.app/)**
 A code-editor-themed portfolio with project write-ups, experience timeline, and contact info.
 
 </td>
@@ -135,3 +135,4 @@ A code-editor-themed portfolio with project write-ups, experience timeline, and 
 <p align="center">
   <em>📫 Reach me: rutujagodse70@gmail.com · +91-8010857437</em>
 </p>
+
