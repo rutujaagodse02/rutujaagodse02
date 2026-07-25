@@ -133,6 +133,6 @@ A code-editor-themed portfolio with project write-ups, experience timeline, and 
 ---
 
 <p align="center">
-  <em>📫 Reach me: rutujagodse70@gmail.com · +91-8010857437</em>
+  <em>📫 Reach me: rutujagodse70@gmail.com </em>
 </p>
 
