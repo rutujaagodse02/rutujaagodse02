@@ -134,7 +134,7 @@ A code-editor-themed portfolio with project write-ups, experience timeline, and 
 ---
 
 <p align="center">
-  <em>📫 Reach me: rutujagodse70@gmail.com ·/em>
+  <em>📫 Reach me: rutujagodse70@gmail.com 
 </p><!-- <h1 align="center">Hi, I'm Rutuja Godse 👋</h1>
 <h3 align="center">Full-Stack Developer · Backend-Focused · Final-Year CS Student @ Bennett University</h3>
 
